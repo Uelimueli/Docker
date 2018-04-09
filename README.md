@@ -5,7 +5,6 @@ UeliMueli
 ## Outline
 1. Description
 2. Configuration
-3. Test
 4. Evaluation
 
 ## Description
