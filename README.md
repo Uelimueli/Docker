@@ -13,8 +13,10 @@ UeliMueli
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads "VirtualBox Download Link")
 * Install Shell [GIT](https://git-scm.com/downloads "GIT Download Link")
 * Install Ubuntu Server [Ubuntu](https://www.ubuntu.com/download/server "Ubuntu Download Link")
+* Install Docker [Docker](https://www.ubuntu.com/download/server "Ubuntu Download Link")
+
 ### Network plan
-![Logical Network Diagram](https://github.com/Uelimueli/Modul-300/blob/master/Netzwerkplan.png "Network Diagram")
+![Logical Network Diagram](https://github.com/Uelimueli/Docker/blob/master/Netzwerkplan.png)
 
 ## Configuration
 ### Docker File configuration
